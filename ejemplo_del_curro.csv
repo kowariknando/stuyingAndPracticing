@@ -1,0 +1,7 @@
+﻿Product_Family,SKU,Product_Description,Duration,EON,Activation_Date,ActivationId,Activated_Quantity,HPSN,Locking_Id,Locking_Type,Rehost_Configuration,Company,EmailId,
+HPE XP7,TK914CH,HPE XP7 Array Mgr Plus Unlimited LTU,,696YAJCAY3CD,05/29/2020 07:40:20,32639594,1,,12387,HITACHI.target_id,None,Eni SpA,fabiano.tombini@eni.com,
+HPE XP7,TK914CH,HPE XP7 Array Mgr Plus Unlimited LTU,,696YAJCAY3CD,05/29/2020 07:40:20,32639594,1,,XP7,HITACHI.info_1,None,Eni SpA,fabiano.tombini@eni.com,
+HPE XP7,TK929A,HPE XP7 2.3GHz Gen2 Processor Bld SW LTU,,Y5A9AJTCYUUA,05/29/2020 07:33:46,32639586,1,,12387,HITACHI.target_id,None,Eni SpA,fabiano.tombini@eni.com,
+HPE XP7,TK929A,HPE XP7 2.3GHz Gen2 Processor Bld SW LTU,,Y5A9AJTCYUUA,05/29/2020 07:33:46,32639586,1,,XP7,HITACHI.info_1,None,Eni SpA,fabiano.tombini@eni.com,
+HPE XP7,TK955BH,HPE XP7 HA Software Unlimited LTU,,HA27AJCAY323,05/29/2020 07:39:03,32639592,1,,12387,HITACHI.target_id,None,Eni SpA,fabiano.tombini@eni.com,
+HPE XP7,TK955BH,HPE XP7 HA Software Unlimited LTU,,HA27AJCAY323,05/29/2020 07:39:03,32639592,1,,XP7,HITACHI.info_1,None,Eni SpA,fabiano.tombini@eni.com,
